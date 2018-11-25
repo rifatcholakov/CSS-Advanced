@@ -1,7 +1,5 @@
-.DS_Store
-node_modules
-.tmp
+_site
 .sass-cache
-images/**
-slides/**
-builds/sassEssentials/css/style.css
+.jekyll-metadata
+package-lock.json
+node_modules

@@ -1,0 +1,34 @@
+header {
+    margin-bottom: 100px;
+    padding: 2% 3%;
+    display: flex;
+    justify-content: space-between;
+
+    img {
+        display: inline-block;
+    }
+}
+
+nav {
+    display: inline-block;
+
+    ul {
+        width: 420px;
+
+        li {
+            list-style-type: none;
+            display: inline-block;
+            margin: 0 3%;
+
+            a {
+                text-decoration: none;
+                color: #000;
+                font-family: $font-main;
+                font-weight: bold;
+                font-size: $header-font-size;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+            }
+        }
+    }
+}

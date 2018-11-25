@@ -1,0 +1,27 @@
+# Site Settings!
+
+
+title: my-project-jekyll
+email: contact@rifatcholakov.com
+description: This is base description!!!
+baseurl: "/myProject" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: none
+github_username:  rifatcholakov
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+destination: docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .gitignore
+  - scss
+  - gulpfile.js
+  - package.json
+  - package-lock.json

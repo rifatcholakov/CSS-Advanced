@@ -1,38 +1,45 @@
-var gulp = require('gulp'),
-    jshint = require('gulp-jshint'),
-    sass = require('gulp-ruby-sass'),
-    sourcemaps = require('gulp-sourcemaps'),
-    webserver = require('gulp-webserver');
+var gulp = require('gulp');
+var browserSync = require('browser-sync').create();
 
-gulp.task('js', function() {
-  return gulp.src('builds/website/js/myscript.js')
-    .pipe(jshint('./.jshintrc'))
-    .pipe(jshint.reporter('jshint-stylish'));
+var $ = require('gulp-load-plugins')();
+
+var path = {
+    SCSS_SRC	: './scss/*.scss',
+    SCSS_DST	: './css',
+    HTML_SRC	: ['./css/*.css','./*.html','./_posts/*.*','./_layouts/*.*', './_includes/*.*'],
+}
+
+gulp.task('scss', function () {
+
+    gulp.src( path.SCSS_SRC )
+        .pipe($.sass())
+        .pipe($.autoprefixer({ browsers: ['last 2 versions'], cascade: false }))
+        .pipe($.size({ showFiles: true }))
+        .pipe($.csso())
+        .pipe($.size({ showFiles: true }))
+        .pipe($.sourcemaps.write('map'))
+        .pipe(gulp.dest( path.SCSS_DST ))
+        .pipe(browserSync.stream({ match: '**/*.css' }))
+    ;
+
 });
 
-gulp.task('sass', function () {
-    return sass('process/sass/style.scss', {
-      sourcemap: true,
-      style: 'expanded'
-    })
-    .on('error', function (err) {
-        console.error('Error!', err.message);
-    })
-    .pipe(sourcemaps.write())
-    .pipe(gulp.dest('builds/website/css'));
+gulp.task('jekyll', function () {
+    require('child_process').exec('bundle exec jekyll build --baseurl=', {stdio: 'inherit'});
 });
 
-gulp.task('watch', function() {
-  gulp.watch('builds/website/js/**/*', ['js']);
-  gulp.watch(['process/sass/**/*'], ['sass']);
+gulp.task('serve', function() {
+
+    browserSync.init({
+        server: {
+            baseDir: "./docs/"
+        }
+    });
+
+    gulp.watch(path.SCSS_SRC, ['scss', 'jekyll']);
+    gulp.watch(path.HTML_SRC, ['jekyll']);
+    gulp.watch(path.HTML_SRC).on('change', browserSync.reload);
+
 });
 
-gulp.task('webserver', function() {
-    gulp.src('builds/website/')
-        .pipe(webserver({
-            livereload: true,
-            open: true
-        }));
-});
-
-gulp.task('default', ['watch', 'sass','webserver']);
+gulp.task('default', ['scss','jekyll','serve'], browserSync.reload);
