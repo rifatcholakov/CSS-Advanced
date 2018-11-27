@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<main class="blog-main">
+    <ul class="blog-posts">
+        {% for post in site.posts %}
+        <li class="blog-post">
+            <a href="{{ post.url }}">
+                <p class="blog-posts-details">{{ post.excerpt }}</p>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</main>

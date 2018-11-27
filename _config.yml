@@ -2,6 +2,7 @@
 
 
 title: my-project-jekyll
+author: "Rifat Cholakov"
 email: contact@rifatcholakov.com
 description: This is base description!!!
 baseurl: "/myProject" # the subpath of your site, e.g. /blog

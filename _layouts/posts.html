@@ -2,31 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>my-project-jekyll</title>
-    <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/blog-post.css" type="text/css">
 </head>
 <body>
 
     <header>
-        <img src="/images/logo.png" alt="Logo">
+        <img src="{{ site.baseurl }}/images/logo.png" alt="Logo">
         <nav>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/about">About me</a></li>
-                <li><a href="/portfolio">Portfolio</a></li>
-                <li><a href="/contact">Contact</a></li>
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                <li><a href="{{ site.baseurl }}/about">About me</a></li>
+                <li><a href="{{ site.baseurl }}/portfolio">Portfolio</a></li>
+                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <main class="home-main">
-    <div class="home-intro">
-        <h1 class="home-title">Hi, I'm <br> Rifat Cholakov</h1>
-        <p class="home-description">Web Developer able to build a Web presence from the ground up. I am a fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.</p>
-    </div>
-    <img class="home-portret" src="images/rifatcholakov.jpg" alt="Rifat Cholakov">
-</main>
+    {{ content }}
 
     <footer>
         <p class="copy">

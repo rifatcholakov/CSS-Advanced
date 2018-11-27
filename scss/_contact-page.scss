@@ -9,7 +9,7 @@
 
 .contact-details {
     display: grid;
-    grid-template-columns: 5;
+    grid-template-columns: 3;
     grid-template-rows: 1;
 
     .contact-email-details {
@@ -88,18 +88,19 @@
 }
 
 .contact-send-inquiry {
-    display: grid;
-    grid-template-columns: 7;
-    grid-template-rows: 2;
+    text-align: center;
 }
 
 .contact-form-title {
-    grid-column-start: 3;
-    grid-column-end: 4;
-    grid-row: 1;
+    display: inline-block;
+    font-size: 16x;
+    padding: 2% 3% 1% 0;
 }
 
 .contact-form {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
 
     .contact-form-input,
     #sent-btn {
@@ -114,5 +115,24 @@
         border: 1px solid #D9D9D9;
         line-height: 1.6;
         outline: none;
+        width: 100%;
+        overflow: hidden;
+        box-sizing: border-box;
+    }
+
+    #sent-btn {
+        background-color: #1922a8;
+        border-radius: 5px;
+        color: #fff;
+        padding: 15px 25px;
+        font-size: 16px;
+        font-weight: 700;
+        border: 3px solid #1922a8;
+        transition: 0.5s;
+    }
+
+    #sent-btn:hover {
+        color: rgba(0, 0, 0, 0.7);
+        background: transparent;
     }
 }

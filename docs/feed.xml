@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-25T20:30:32+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/first-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T18:13:20+02:00</published><updated>2018-11-23T18:13:20+02:00</updated><id>/jekyll/update/2018/11/23/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/first-post.html">This is POSTS</content><author><name></name></author><summary type="html">This is POSTS</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-27T14:15:23+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">20 Best Tools for React Development</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="20 Best Tools for React Development" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
+    &lt;img src=&quot;/images/react.jpg&quot; alt=&quot;React&quot;&gt;
+    &lt;h2&gt;20 Best Tools for React Development&lt;/h2&gt;
+    &lt;span&gt;Tuesday 27 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        React is a lightweight JavaScript library created by Facebook that has become highly popular in the recent years. It allows you to build beautiful UIs for your web apps using isolated and reusable building blocks called components.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;React also has a huge ecosystem mainly created by third-party developers, including several tools, component libraries, IDEs, extensions for code editors and web browsers, boilerplates, and more. In this article, we have collected the 20 best tools and resources for both beginners and experienced React developers.&lt;/p&gt;
+&lt;h1&gt;01. Reactide&lt;/h1&gt;
+&lt;img src=&quot;http://www.developerdrive.com/wp-content/uploads/2018/05/reactide.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;Reactide is a dedicated IDE (integrated development environment) for React application development. It’s a cross-platform tool that allows you to render React components without any build or server configuration. Reactide runs an integrated Node server and a custom browser simulator. It makes state flow visualization possible as well.&lt;/p&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">20 Best Tools for React Development Tuesday 27 November 2018 by Rifat Cholakov React is a lightweight JavaScript library created by Facebook that has become highly popular in the recent years. It allows you to build beautiful UIs for your web apps using isolated and reusable building blocks called components.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/fifth-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T23:13:20+02:00</published><updated>2018-11-23T23:13:20+02:00</updated><id>/jekyll/update/2018/11/23/fifth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/fifth-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/fourth-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T22:13:20+02:00</published><updated>2018-11-23T22:13:20+02:00</updated><id>/jekyll/update/2018/11/23/fourth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/fourth-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/third-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T21:13:20+02:00</published><updated>2018-11-23T21:13:20+02:00</updated><id>/jekyll/update/2018/11/23/third-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/third-post.html">&lt;p&gt;
+    &lt;img src=&quot;https://rifatcholakov.com/wp-content/uploads/2018/07/2.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/second-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T20:13:20+02:00</published><updated>2018-11-23T20:13:20+02:00</updated><id>/jekyll/update/2018/11/23/second-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/second-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/sixth-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T15:13:20+02:00</published><updated>2018-11-23T15:13:20+02:00</updated><id>/jekyll/update/2018/11/23/sixth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/sixth-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/seventh-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T14:13:20+02:00</published><updated>2018-11-23T14:13:20+02:00</updated><id>/jekyll/update/2018/11/23/seventh-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/seventh-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
+        before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
+    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
+    &lt;p&gt;
+            Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.
+    &lt;/p&gt;
+&lt;/p&gt;
+
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry></feed>

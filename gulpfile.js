@@ -22,6 +22,17 @@ gulp.task('scss', function () {
         .pipe(browserSync.stream({ match: '**/*.css' }))
     ;
 
+    gulp.src( './scss/blog-post.scss')
+        .pipe($.sass())
+        .pipe($.autoprefixer({ browsers: ['last 2 versions'], cascade: false }))
+        .pipe($.size({ showFiles: true }))
+        .pipe($.csso())
+        .pipe($.size({ showFiles: true }))
+        .pipe($.sourcemaps.write('map'))
+        .pipe(gulp.dest( path.SCSS_DST ))
+        .pipe(browserSync.stream({ match: '**/*.css' }))
+    ;
+
 });
 
 gulp.task('jekyll', function () {
