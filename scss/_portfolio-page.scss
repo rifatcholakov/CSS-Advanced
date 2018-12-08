@@ -1,0 +1,52 @@
+.portfolio-main {
+    font-family: $font-main;
+
+    .portfolio-project {
+        display: flex;
+        border: 3px solid $special-color;
+        border-radius: 20px;
+        width: 80vw;
+        margin: 2% auto;
+        overflow: hidden;
+        // box-sizing: border-box;
+
+        .project-image {
+            width: 50%;
+            height: 100%;
+        }
+
+        .project-description-block {
+            vertical-align: top;
+            margin-left: 15px;
+            font-size: 14px;
+        }
+
+        .project-title {
+            font-size: 1.5rem;
+        }
+
+        .project-descripton {
+            color: $text-color;
+        }
+
+        .project-view {
+            background-color: #1922a8;
+            border-radius: 5px;
+            color: #fff;
+            padding: 15px 25px;
+            font-size: 16px;
+            font-weight: 700;
+            border: 3px solid #1922a8;
+            transition: 0.5s;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 10px;
+        }
+    
+        .project-view:hover {
+            color: rgba(0, 0, 0, 0.7);
+            background: transparent;
+        }
+    }
+
+}

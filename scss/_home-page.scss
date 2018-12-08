@@ -33,5 +33,11 @@
         border: 7px solid #fff;
         box-sizing: border-box;
         box-shadow: 0 40px 120px -20px rgba(0,0,0,.6);
+        filter: grayscale(90%);
+        transition: 0.3s;
+    }
+
+    .home-portret:hover {
+        filter: grayscale(0);
     }
 }

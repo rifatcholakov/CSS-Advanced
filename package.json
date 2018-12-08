@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.html",
-  "dependencies": "",
+  "dependencies": {
+    "gulp-cli": "^2.0.1",
+    "npm": "^6.4.1"
+  },
   "devDependencies": {
     "browser-sync": "",
     "csso": "",
