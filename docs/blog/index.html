@@ -2,20 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my-project-jekyll</title>
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
 </head>
 <body>
 
     <header>
         <img src="/images/logo.png" alt="Logo">
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/about">About me</a></li>
-                <li><a href="/portfolio">Portfolio</a></li>
-                <li><a href="/contact">Contact</a></li>
+
+        <div class="container" onclick="myFunction(this)">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+        </div>
+
+        <nav class="hidden">
+            <ul class="menu">
+                <a href="/"><li>Home</li></a>
+                <a href="/blog"><li>Blog</li></a>
+                <a href="/about"><li>About me</li></a>
+                <a href="/portfolio"><li>Portfolio</li></a>
+                <a href="/contact"><li>Contact</li></a>
             </ul>
         </nav>
     </header>
@@ -166,5 +178,15 @@
             <a href="https://stackoverflow.com/users/9290485/rifat-cholakov" target="_blank"><i class="fab fa-stack-overflow"></i></a>
         </div>
     </footer>
+
+    <script>
+        function myFunction(x) {
+            x.classList.toggle('change');
+            let nav = document.getElementsByTagName('nav');
+            $('nav').toggleClass('hidden');
+        }
+
+        
+    </script>
 </body>
 </html>

@@ -136,3 +136,36 @@
         background: transparent;
     }
 }
+
+@include tablet {
+    .contact-form {
+        width: 96%;
+    }
+}
+
+@include phone {
+    .contact-form #sent-btn {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .contact-details {
+        grid-template-columns: 1;
+        grid-template-rows: 3;
+    }
+
+    .contact-details .contact-email-details {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .contact-details .contact-phone-details {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .contact-details .contact-social-details {
+        grid-column: 1;
+        grid-row: 3;
+    }
+}

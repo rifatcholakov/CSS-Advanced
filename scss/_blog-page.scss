@@ -29,11 +29,6 @@
         transition: all 0.3s;
         box-sizing: border-box;
         display: block;
-        filter: grayscale(100%);
-    }
-
-    img:hover {
-        filter: grayscale(0);
     }
 
     a {
@@ -74,6 +69,24 @@
             color: #191919;
             margin-left: 0;
             padding: 0;
+        }
+    }
+}
+
+@include tablet {
+    .blog-post {
+        width: 45%;
+    }
+}
+
+@include phone {
+    .blog-post {
+        width: 90%;
+        margin-left: 0;
+        margin-right: 0;
+
+        span {
+            display: inline-block;
         }
     }
 }

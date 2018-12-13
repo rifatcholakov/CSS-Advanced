@@ -5,7 +5,7 @@
         display: flex;
         border: 3px solid $special-color;
         border-radius: 20px;
-        width: 80vw;
+        width: 80%;
         margin: 2% auto;
         overflow: hidden;
         // box-sizing: border-box;
@@ -19,6 +19,7 @@
             vertical-align: top;
             margin-left: 15px;
             font-size: 14px;
+            width: 50%;
         }
 
         .project-title {
@@ -49,4 +50,26 @@
         }
     }
 
+}
+
+@include tablet {
+    .portfolio-main .portfolio-project {
+        display: block;
+        width: 70%;
+    }
+
+    .portfolio-main .portfolio-project .project-image {
+        width: 100%;
+    }
+
+    .portfolio-main .portfolio-project .project-description-block {
+        margin: 2%;
+        width: 95%;
+    }
+}
+
+@include phone {
+    .portfolio-main .portfolio-project .project-description-block {
+        text-align: center;
+    }
 }

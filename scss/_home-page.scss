@@ -1,7 +1,7 @@
 .home-main {
     display: grid;
     grid-template-columns: 50% 40%;
-    grid-template-rows: 1;
+    grid-template-rows: 2;
     gap: 100px;
 
     .home-intro {
@@ -39,5 +39,40 @@
 
     .home-portret:hover {
         filter: grayscale(0);
+    }
+}
+
+@include tablet {
+    .home-main {
+        align-items: center;
+        gap: 50px;
+    }
+
+    .home-main .home-intro .home-title {
+        font-size: 48px;
+        line-height: 58px;
+    }
+}
+
+@include phone {
+    .home-main {
+        display: grid;
+        grid-template-rows: 2;
+        justify-content: center;
+        padding: 5%;
+    }
+
+    .home-main .home-intro {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row: 1;
+        text-align: center;
+        padding: 3%;
+    }
+
+    .home-main .home-portret {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row: 2;
     }
 }
