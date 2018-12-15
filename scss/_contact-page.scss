@@ -141,9 +141,17 @@
     .contact-form {
         width: 96%;
     }
+
+    .contact-title {
+        font-size: 54px;
+    }
 }
 
 @include phone {
+    .contact-title {
+        font-size: 42px;
+    }
+
     .contact-form #sent-btn {
         width: 100%;
         margin: 0 auto;
@@ -167,5 +175,14 @@
     .contact-details .contact-social-details {
         grid-column: 1;
         grid-row: 3;
+    }
+
+    .contact-details 
+    .contact-email-details-title, 
+    .contact-details 
+    .contact-phone-details-title, 
+    .contact-details 
+    .contact-social-details-title {
+        font-size: 26px;
     }
 }

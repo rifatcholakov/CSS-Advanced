@@ -1,14 +1,22 @@
 .portfolio-main {
     font-family: $font-main;
 
+    .portfolio-title {
+        text-align: center;
+        margin-bottom: 5%;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 76px;
+        letter-spacing: -2px;
+    }
+
     .portfolio-project {
         display: flex;
-        border: 3px solid $special-color;
-        border-radius: 20px;
-        width: 80%;
-        margin: 2% auto;
+        width: 95%;
+        margin: 5% auto;
         overflow: hidden;
-        // box-sizing: border-box;
+        box-sizing: border-box;
+        box-shadow: 0px 0px 10px -4px rgba(0,0,0,.75);
 
         .project-image {
             width: 50%;
@@ -20,6 +28,8 @@
             margin-left: 15px;
             font-size: 14px;
             width: 50%;
+            // box-shadow: 0 10px 10px -10px rgba(0,0,0,.15);
+            display: block;
         }
 
         .project-title {
@@ -42,6 +52,7 @@
             text-decoration: none;
             display: inline-block;
             margin-top: 10px;
+            margin-bottom: 20px;
         }
     
         .project-view:hover {
@@ -55,7 +66,9 @@
 @include tablet {
     .portfolio-main .portfolio-project {
         display: block;
-        width: 70%;
+        width: 80%;
+        margin-top: 10%;
+        box-shadow: 0px 2px 10px -4px rgba(0,0,0,.75);
     }
 
     .portfolio-main .portfolio-project .project-image {
@@ -63,13 +76,32 @@
     }
 
     .portfolio-main .portfolio-project .project-description-block {
-        margin: 2%;
-        width: 95%;
+        margin: 2% 0;
+        padding: 0 2% 1% 2%;
+        width: 99%;
+    }
+
+    .portfolio-main .portfolio-title {
+        font-size: 58px;
     }
 }
 
 @include phone {
     .portfolio-main .portfolio-project .project-description-block {
         text-align: center;
+    }
+
+    .portfolio-main .portfolio-project {
+        width: 90%;
+        margin-top: 10%;
+    }
+
+    .portfolio-main .portfolio-project .project-description-block {
+        width: 95%;
+    }
+
+    .portfolio-main .portfolio-title {
+        font-size: 42px;
+        line-height: 66px;
     }
 }

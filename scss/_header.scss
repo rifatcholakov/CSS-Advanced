@@ -1,5 +1,5 @@
 header {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     padding: 2% 3%;
     display: flex;
     justify-content: space-between;
@@ -17,12 +17,12 @@ nav {
     }
 
     ul {
-        width: 570px;
+        width: 480px;
 
         li {
             list-style-type: none;
             display: inline-block;
-            margin: 0 5%;
+            margin: 0 4%;
 
             color: #000;
             font-family: $font-main;
@@ -74,6 +74,7 @@ nav {
         display: block;
         text-align: left;
         margin-bottom: 0;
+        margin-top: 3%;
     }
 
     nav.hidden {
@@ -111,7 +112,10 @@ nav {
 }
 
 @include phone {
+    // header {
+    //     text-align: center;
+    // }
     header {
-        text-align: center;
+        margin-top: 4%;
     }
 }
