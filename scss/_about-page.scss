@@ -1,0 +1,81 @@
+.about-main {
+    font-family: $font-main;
+
+    .about-title {
+        font-size: 64px;
+        text-align: center;
+    }
+
+    .facts {
+        text-align: center;
+        width: 70%;
+        margin: 12% auto 10% auto;
+        display: block;
+        
+        h2 {
+            font-size: 40px;
+            font-weight: normal;
+        }
+
+        p {
+            font-size: 22px;
+            font-style: italic;
+        }
+    }
+
+    .traits {
+        display: block;
+        width: 87%;
+        margin: 5% auto;
+
+        img {
+            vertical-align: middle;
+            width: 27%;
+            border-radius: 50%;
+        }
+
+        p {
+            display: inline-block;
+            width: 65%;
+            vertical-align: middle;
+            margin-left: 3%;
+            font-size: 18px;
+        }
+
+        #reading-paragraph {
+            margin-left: 0;
+            margin-right: 3%;
+        }
+    }
+
+    .friend {
+        text-align: center;
+        height: 150px;
+        margin-top: 10%;
+
+        h3 {
+            font-size: 38px;
+            margin-bottom: 6%;
+            font-weight: 500;
+        }
+
+        a {
+            text-decoration: none;
+            background-color: #3b5998;
+            color: #fff;
+            font-size: 24px;
+            padding: 25px 35px;
+            box-sizing: border-box;
+            transition: 0.5s;
+
+            i {
+                margin-right: 15px;
+            }
+        }
+
+        a:hover {
+            font-size: 28px;
+        }
+    }
+
+}
