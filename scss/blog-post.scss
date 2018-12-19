@@ -1,3 +1,9 @@
+@import "variables";
+
+body {
+    font-family: $font-main;
+}
+
 p {
     img {
         width: 80vw;
@@ -8,6 +14,51 @@ p {
 }
 
 h2 {
-    font-size: 56px !important;
-    color: red;
+    font-size: 56px;
+    text-align: center;
+}
+
+.meta-info {
+    display: block;
+    width: 30%;
+    margin: 0 auto 20px auto;
+}
+
+.date {
+    font-size: 1.05em;
+}
+
+.author {
+    font-weight: bold;
+    font-size: 1.1em;
+    font-style: normal;
+}
+
+.summary {
+    width: 70%;
+    margin: 5% auto 0 auto;
+}
+
+.first-letter {
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+article {
+    width: 70%;
+    margin: 0 auto;
+
+    h3 {
+        font-size: 1.7em;
+    }
+
+    img {
+        width: 100%;
+    }
+}
+
+article:after {
+    content: 'The end';
+    font-size: 54px;
+    font-weight: bold;
 }
