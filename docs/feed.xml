@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-15T21:01:27+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">20 Best Tools for React Development</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="20 Best Tools for React Development" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-19T15:37:17+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">20 Best Tools for React Development</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="20 Best Tools for React Development" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
     &lt;img src=&quot;/images/react.jpg&quot; alt=&quot;React&quot;&gt;
     &lt;h2&gt;20 Best Tools for React Development&lt;/h2&gt;
     &lt;span&gt;Tuesday 27 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
@@ -71,13 +71,42 @@ This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary
     &lt;/p&gt;
 &lt;/p&gt;
 
-This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
-    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
-    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">How to Choose a Navigation Setup</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="How to Choose a Navigation Setup" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
+    &lt;img src=&quot;/images/post-8.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;How to Choose a Navigation Setup&lt;/h2&gt;
     &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
     &lt;p&gt;
-            Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.
+        Do you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience.
     &lt;/p&gt;
 &lt;/p&gt;
 
-This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry></feed>
+&lt;p&gt;A website that is easy to navigate will lead to longer visits and increased conversions. And given that your website’s ultimate goal is to generate sales and leads for your business, this is essential.&lt;/p&gt;
+&lt;p&gt;There are a few different ways to setup your site’s navigation, and two of the most popular are top and side. The one that’s best for your site depends on your content, so in this post, we’ll take a look at a few different navigation options and why they may or may not work for your business.&lt;/p&gt;
+&lt;h3&gt;Top Navigation&lt;/h3&gt;
+&lt;p&gt;Top navigation may be the best setup for your site if you don’t have too many menu options to choose from. Most users are inclined to read left to right, top to bottom. Place the navigation labels in a horizontal line at the top of the page to create a familiar and natural space for users’ eyes to land.&lt;/p&gt;
+&lt;p&gt;You’ll want “top-level” pages, or pages that are the most important to your site, in this navigation bar.&lt;/p&gt;
+&lt;h3&gt;Side Navigation&lt;/h3&gt;
+&lt;p&gt;Vertical menus are usually not the best option if you’re aiming for simple menu design, because a lot of content can visually crowd vertical menus.&lt;/p&gt;
+&lt;p&gt;Looking at the example below from Yale University’s School of Art page, you can see how side navigation works:&lt;/p&gt;
+&lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/09/tisch.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;Compare this setup to the Tisch School of Art’s page:&lt;/p&gt;
+&lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/09/tisch.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;Which one is easier on the eye and encourages further reading?&lt;/p&gt;
+&lt;p&gt;At first glance, it is easy to see that the Tisch School of Art makes it much easier to navigate their site and find important information. The top navigation setup is minimalist and elegant in design, with clear and concise labels.&lt;/p&gt;
+&lt;p&gt;By contrast, Yale’s page has a more cluttered side navigation that, although simple, is less visually appealing.&lt;/p&gt;
+&lt;p&gt;Vertical navigation menus can work, but only with the right design and with minimal items to choose from.&lt;/p&gt;
+&lt;p&gt;Here’s an example where side navigation works well:&lt;/p&gt;
+&lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/09/nathan-welton.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;As you can see, Nathan Welton Photography uses a minimalist design with few menu options. The result is a well-designed, easy-to-navigate homepage.&lt;/p&gt;
+&lt;p&gt;If your site features long lists of menu items, and you wish to use vertical navigation, be sure to break the menus into categories.&lt;/p&gt;
+&lt;p&gt;However, if your site is content-heavy with lots of categories and information, you may want to opt for a mega nav setup.&lt;/p&gt;
+&lt;h3&gt;Mega Navigation&lt;/h3&gt;
+&lt;p&gt;If you have a lot of information on your site, a mega navigation setup is one of the best ways to make it all accessible to your visitors. It’s visually appealing, and entices users with plenty of organized options. If you offer many different products in different categories, this is likely your best option.&lt;/p&gt;
+&lt;p&gt;A great example of an easy-to-navigate drop-down menu can be found on Starbucks website.&lt;/p&gt;
+&lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/09/starbucks-nav.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;When users hover their mouse over the “Menu” tab, they see a larger navigation setup with four different categories – all in a simple font, and neatly spaced. The point is to direct users where they want to go, not overwhelm them with unnecessary effects or images.&lt;/p&gt;
+&lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/09/starbucks-nav-dropdown.jpg&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;A mega drop-down menu will also add plenty of links to your site and will help with SEO as a result.&lt;/p&gt;
+&lt;p&gt;Whether you choose top, side, or a mega navigation setup, you’ll want to make sure that the style is consistent on all pages, visually familiar, and concise.&lt;/p&gt;
+&lt;p&gt;Be descriptive and specific in your navigation labels and put yourself in user’s shoes. Ask yourself what experience you prefer to have when browsing an online store for products or services. What have you found to be frustrating when navigating a page, and what changes would you have made?&lt;/p&gt;
+&lt;p&gt;A navigation setup should be designed with the goal of getting users where they want to be as easily as possible. And when you make user experience your top priority, you’ll be much more successful in keeping visitors on your site and converting them into customers.&lt;/p&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How to Choose a Navigation Setup Friday 23 November 2018 by Rifat Cholakov Do you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience.</summary></entry></feed>
