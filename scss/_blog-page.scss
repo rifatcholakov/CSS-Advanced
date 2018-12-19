@@ -38,6 +38,10 @@
         text-decoration: none;
     }
 
+    a:visited {
+        color: #191919;
+    }
+
     h2 {
         color: #000;
         font-size: 18px;
@@ -49,7 +53,7 @@
         transition: 0.3s;
     }
 
-    span + p {
+    .post-summary {
         box-sizing: border-box;
         line-height: 1.8;
         font-size: 14px;

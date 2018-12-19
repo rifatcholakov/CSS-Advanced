@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-19T18:07:56+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">20 Best Tools for React Development</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="20 Best Tools for React Development" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-19T19:54:49+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">20 Best Tools for React Development</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="20 Best Tools for React Development" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
     &lt;img src=&quot;/images/react.jpg&quot; alt=&quot;React&quot;&gt;
     &lt;h2&gt;20 Best Tools for React Development&lt;/h2&gt;
     &lt;span&gt;Tuesday 27 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
@@ -61,24 +61,130 @@ This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary
     &lt;/p&gt;
 &lt;/p&gt;
 
-This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/11/23/seventh-post.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-23T14:13:20+02:00</published><updated>2018-11-23T14:13:20+02:00</updated><id>/jekyll/update/2018/11/23/seventh-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/seventh-post.html">&lt;p&gt;
-    &lt;img src=&quot;http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png&quot; alt=&quot;Post Image&quot;&gt;
-    &lt;h2&gt;Welcome to Jekyll!&lt;/h2&gt;
-    &lt;span&gt;Friday 23 November 2018 by &lt;span&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;
-    &lt;p&gt;
-        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
-        before. Ahh, only if I also knew all of it when I was younger.
+This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">5 Ways Web Design Impacts Customer Experience</title><link href="/jekyll/update/2018/11/23/seventh-post.html" rel="alternate" type="text/html" title="5 Ways Web Design Impacts Customer Experience" /><published>2018-11-23T14:13:20+02:00</published><updated>2018-11-23T14:13:20+02:00</updated><id>/jekyll/update/2018/11/23/seventh-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/seventh-post.html">&lt;p&gt;
+    &lt;img src=&quot;/images/post-7.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;h2&gt;5 Ways Web Design Impacts Customer Experience&lt;/h2&gt;
+    &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;p class=&quot;post-summary&quot;&gt;
+        Web design is one of the most important parts of any Internet marketing strategy. It has a huge impact on the digital customer experience in several different ways. Your site’s aesthetics, usability, any other crucial factors are essential to your company’s long-term online success.
     &lt;/p&gt;
 &lt;/p&gt;
 
-This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary type="html">Welcome to Jekyll! Friday 23 November 2018 by Rifat Cholakov Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew before. Ahh, only if I also knew all of it when I was younger.</summary></entry><entry><title type="html">How to Choose a Navigation Setup</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="How to Choose a Navigation Setup" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
+&lt;article&gt;
+    &lt;p&gt;But how dramatically does it actually impact your bottom line?&lt;/p&gt;
+    &lt;p&gt;In this post, we’ll take a look at five major aspect of web design and how you can improve all of them.&lt;/p&gt;
+    &lt;h3&gt;1. Appearance&lt;/h3&gt;
+    &lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/06/amazon-1.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;Web design most obviously impacts your site’s appearance. You choose how your site looks, which plays a huge role in your company’s first impression on new online visitors.&lt;/p&gt;
+    &lt;p&gt;Often, you’ll hear marketing experts (including us) talk about web design in two extremes: &lt;br&gt;
+        &amp;bull; Older websites that look like they were made in 1996 &lt;br&gt;
+        &amp;bull; Newer, sleeker websites that adhere to modern web design standards
+    &lt;/p&gt;
+    &lt;p&gt;Many websites fall between those two options, but they represent opposite ends of a spectrum.&lt;/p&gt;
+    &lt;p&gt;It’s possible to have a site somewhere in the middle — one that looks attractive, but maybe it was last updated in 2007.&lt;/p&gt;
+    &lt;p&gt;Regardless of how your site looks, the goal is to have it as current and up-to-date with modern design trends as you can.&lt;/p&gt;
+    &lt;p&gt;Modern web design trends include: &lt;br&gt;
+        &amp;bull; Responsive design &lt;br&gt;
+        &amp;bull; Parallax scrolling &lt;br&gt;
+        &amp;bull; Big, bold fonts &lt;br&gt;
+        &amp;bull; Eye-catching “hero” images &lt;br&gt;
+        &amp;bull; Multimedia &lt;br&gt;
+    &lt;/p&gt;
+    &lt;p&gt;Responsive design means using code on your website that makes it look and function the same, regardless of the device someone uses to access it.&lt;/p&gt;
+    &lt;p&gt;So whether someone comes to your site from a smartphone or a desktop computer, they’ll get a great experience and find the information they want.&lt;/p&gt;
+    &lt;p&gt;Parallax scrolling means overlaying two visual elements on a page and moving them at different speeds as someone scrolls.&lt;/p&gt;
+    &lt;p&gt;Then, when someone looks through a page on your site, they’ll get a cutting-edge visual experience that keeps them engaged and reading.&lt;/p&gt;
+    &lt;p&gt;Big, bold fonts have been in vogue for a few years now. Essentially, the concept refers to using sans-serif typefaces that are easy to read on screens.&lt;/p&gt;
+    &lt;p&gt;That makes your customer experience smoother, and it lets your readers get the most value out of every sentence on your site.&lt;/p&gt;
+    &lt;p&gt;Eye-catching “hero” images are giant, full-width graphics at the top of articles that give you a summarizing visual representation of the text below.&lt;/p&gt;
+    &lt;p&gt;They got the name “hero” because these images champion the article with which they’re associated. They’re great for generating clicks for social media, and they’re ideal introductions to concepts on your site.&lt;/p&gt;
+    &lt;p&gt;Last, multimedia refers to images, videos, interactives, and other visual elements that help break up text and educate your visitors.&lt;/p&gt;
+    &lt;p&gt;Multimedia is fair game for just about any page on your site from a blog post to a 100-page downloadable guide.&lt;/p&gt;
+    &lt;p&gt;When you include it, you make your content much more scannable, engaging, and enjoyable for readers.&lt;/p&gt;
+    &lt;p&gt;But this all has to do with your site’s appearance. Web design impacts a lot more than just how a website looks.&lt;/p&gt;
+    &lt;h3&gt;2. Professionalism&lt;/h3&gt;
+    &lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/06/testimonials-1.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;Professionalism refers to the impression you make on your site’s visitors before they ever start reading your site.&lt;/p&gt;
+    &lt;p&gt;When someone arrives on your site, you want them to understand that you’re a modern, respectable business. This impression is largely based on how your web design represents you.&lt;/p&gt;
+    &lt;p&gt;Several web design elements contribute to professionalism, including: &lt;br&gt;
+        &amp;bull; A culture page &lt;br&gt;
+        &amp;bull; Photos of staff &lt;br&gt;
+        &amp;bull; Customer results &lt;br&gt;
+    &lt;/p&gt;
+    &lt;p&gt;A culture page is part of your site that’s exclusively dedicated to talking about your company’s approach to daily operations.&lt;/p&gt;
+    &lt;p&gt;Do you have certain values at your company? Do you maintain certain traditions? Do you celebrate anything unique?&lt;/p&gt;
+    &lt;p&gt;These are all great additions to a culture page since they show what your company does besides work. Even your customers will be interested to see that your employees are happy.&lt;/p&gt;
+    &lt;p&gt;Speaking of employee happiness, photos of staff can also go a long way in reinforcing professionalism.&lt;/p&gt;
+    &lt;p&gt;Whether you choose to show them together at a happy hour or hard at work is up to you. Either way, you’re adding faces to your business that shows visitors you’re more than a brand name — you’re a thriving company.&lt;/p&gt;
+    &lt;p&gt;Last, you can showcase customer results. If you can quantify your work in any way — even if it’s how many air conditioners you repaired last year — you can highlight that information on your site.&lt;/p&gt;
+    &lt;p&gt;This demonstrates professionalism because it shows that you have your customers in mind, even those who haven’t converted yet.&lt;/p&gt;
+    &lt;p&gt;Visitors who see that will understand that you’re a customer-focused business that values itself in terms of what you can deliver.&lt;/p&gt;
+    &lt;p&gt;Still, professionalism needs another element that web design can offer — and it’s essential no matter what kind of business you own.&lt;/p&gt;
+    &lt;h3&gt;3. Clarity&lt;/h3&gt;
+    &lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/06/groupon.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;Clarity means designing your website so visitors can find what they want as quickly as possible.&lt;/p&gt;
+    &lt;p&gt;Most often, this means improving your navigation. Intuitive and familiar navigation styles allow your visitors to quickly find the information they want.&lt;/p&gt;
+    &lt;p&gt;Today, navigation comes in a few well-known styles: &lt;br&gt;
+        &amp;bull; Breadcrumb &lt;br&gt;
+        &amp;bull; Drop-down menu &lt;br&gt;
+    &lt;/p&gt;
+
+    &lt;p&gt;Breadcrumb navigation is inspired by the story of Hansel &amp; Gretel.&lt;/p&gt;
+    &lt;p&gt;Whenever someone clicks to a new page, your site automatically adds their previous page to a navigation bar. Then, a user can click back to that page in an instant if they want.&lt;/p&gt;
+    &lt;p&gt;A drop-down menu lets someone hover their cursor over a menu title and see the pages that category contains.&lt;/p&gt;
+    &lt;p&gt;Then, they can click on the page that interests them to get the information they want.&lt;/p&gt;
+    &lt;p&gt;These navigation strategies can work together, too. Your homepage can use drop-down menus, and once someone clicks to a new page, you can use breadcrumb navigation on that page to let users go back to where they were.&lt;/p&gt;
+    &lt;p&gt;Naturally, you have lots of other options for navigation. But these are the two most popular and useful in the web design world.&lt;/p&gt;
+    &lt;h3&gt;4. Load time&lt;/h3&gt;
+    &lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/06/web-design-ux-load-time.jpg&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;Load time refers to how long someone has to wait for a page on your site to display on their device(s).&lt;/p&gt;
+    &lt;p&gt;Load time is a major Google ranking factor, and it’s become crucial to online success as more consumers move toward using the Internet on mobile devices.&lt;/p&gt;
+    &lt;p&gt;The modern Internet user is concerned with websites that load in the blink of an eye and — more importantly — use minimal data.&lt;/p&gt;
+    &lt;p&gt;So how can you reduce your site’s loading time? &lt;br&gt;
+        &amp;bull; Optimize image sizes &lt;br&gt;
+        &amp;bull; Remove auto-play multimedia &lt;br&gt;
+        &amp;bull; Use white space &lt;br&gt;
+    &lt;/p&gt;
+    &lt;p&gt;First, you can optimize image sizes on your website to make sure your site loads as quickly as possible.&lt;/p&gt;
+    &lt;p&gt;To do that, use .jpg files for your images. This is the best way to show high-resolution photos or graphics while minimizing the size of the file.&lt;/p&gt;
+    &lt;p&gt;Next, you should remove auto-play multimedia like video and audio.&lt;/p&gt;
+    &lt;p&gt;That means your users won’t use big chunks of their mobile data when they go to your site on their smartphones.&lt;/p&gt;
+    &lt;p&gt;Plus, auto-play multimedia is an irritating way to promote content anyway. Most users will leave your page if they get there and there’s automatically a video in their face.&lt;/p&gt;
+    &lt;p&gt;Instead, make your multimedia require manual activation on every page.&lt;/p&gt;
+    &lt;p&gt;Last, you can use white space more frequently to reduce data demand.&lt;/p&gt;
+    &lt;p&gt;White space is any unused space on your pages. No text, no images, no videos — nothing.&lt;/p&gt;
+    &lt;p&gt;White space spreads out your text and elements to make them easier to see, especially for mobile users.&lt;/p&gt;
+    &lt;p&gt;This makes it easier for visitors to understand everything on a page so they don’t have to re-read content.&lt;/p&gt;
+    &lt;p&gt;In a nutshell, that makes white space work on two levels. It helps your pages load in a flash and it makes them more readable.&lt;/p&gt;
+    &lt;p&gt;Overall, that makes web design crucial to the speed of your site. You can also use these strategies together to help your individual pages load as quickly as possible.&lt;/p&gt;
+    &lt;h3&gt;5. Conversions&lt;/h3&gt;
+    &lt;img src=&quot;https://www.webfx.com/blog/wp-content/uploads/2017/06/spotify.png&quot; alt=&quot;&quot;&gt;
+    &lt;p&gt;Conversions are arguably the most important part of web design.&lt;/p&gt;
+    &lt;p&gt;After all, your business won’t thrive online without them.&lt;/p&gt;
+    &lt;p&gt;Web design can impact conversions in a thousand different ways, and they’re all important, but these three are some of the most impactful: &lt;br&gt;
+        &amp;bull; Color &lt;br&gt;
+        &amp;bull; KISS principle &lt;br&gt;
+        &amp;bull; Faces &lt;br&gt;
+    &lt;/p&gt;
+    &lt;p&gt;Color sounds general, but in web design, it refers to a color scheme that intelligently uses contrast to highlight selling propositions.&lt;/p&gt;
+    &lt;p&gt;So if your site uses a cool color scheme, use warm colors like red or yellow for your calls to action. That helps them stand out so people can find them more easily and convert.&lt;/p&gt;
+    &lt;p&gt;The KISS principle is an acronym for “Keep It Simple, Stupid.”&lt;/p&gt;
+    &lt;p&gt;The idea is that simpler designs are better designs. When you have an easy-to-follow, organized website, you make it that much easier for visitors to convert.&lt;/p&gt;
+    &lt;p&gt;You don’t need loud backgrounds or showy graphics to sell your company online — it’s actually better to stay simple.&lt;/p&gt;
+    &lt;p&gt;Last, faces may sound a little odd as a web design principle. But the idea is that human faces help visitors relate to your business.&lt;/p&gt;
+    &lt;p&gt;You could use stock images, but this works best when you use your own staff.&lt;/p&gt;
+    &lt;p&gt;Essentially, you show someone the human side of your company to make them feel more comfortable contacting you.&lt;/p&gt;
+    &lt;p&gt;It may not sound like much, but that goes a long way in establishing trust, fostering a positive relationship, and eventually earning a new customer.&lt;/p&gt;
+    &lt;p&gt;By using all three of these concepts at once, you make your site much more efficient at earning new customers.&lt;/p&gt;
+&lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">5 Ways Web Design Impacts Customer Experience Friday 23 November 2018 by Rifat Cholakov Web design is one of the most important parts of any Internet marketing strategy. It has a huge impact on the digital customer experience in several different ways. Your site’s aesthetics, usability, any other crucial factors are essential to your company’s long-term online success.</summary></entry><entry><title type="html">How to Choose a Navigation Setup</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="How to Choose a Navigation Setup" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
     &lt;img src=&quot;/images/post-8.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;How to Choose a Navigation Setup&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-    &lt;p class=&quot;summary&quot;&gt;
-        &lt;span class=&quot;first-letter&quot;&gt;D&lt;/span&gt;o you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience.
+    &lt;p class=&quot;post-summary&quot;&gt;
+        Do you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience.
     &lt;/p&gt;
 &lt;/p&gt;
+
 &lt;article&gt;
     &lt;p&gt;A website that is easy to navigate will lead to longer visits and increased conversions. And given that your website’s ultimate goal is to generate sales and leads for your business, this is essential.&lt;/p&gt;
     &lt;p&gt;There are a few different ways to setup your site’s navigation, and two of the most popular are top and side. The one that’s best for your site depends on your content, so in this post, we’ll take a look at a few different navigation options and why they may or may not work for your business.&lt;/p&gt;
@@ -110,4 +216,4 @@ This is test POSTS</content><author><name>Rifat Cholakov</name></author><summary
     &lt;p&gt;Whether you choose top, side, or a mega navigation setup, you’ll want to make sure that the style is consistent on all pages, visually familiar, and concise.&lt;/p&gt;
     &lt;p&gt;Be descriptive and specific in your navigation labels and put yourself in user’s shoes. Ask yourself what experience you prefer to have when browsing an online store for products or services. What have you found to be frustrating when navigating a page, and what changes would you have made?&lt;/p&gt;
     &lt;p&gt;A navigation setup should be designed with the goal of getting users where they want to be as easily as possible. And when you make user experience your top priority, you’ll be much more successful in keeping visitors on your site and converting them into customers.&lt;/p&gt;
-&lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How to Choose a Navigation Setup Friday 23 November 2018 by Rifat Cholakov Do you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience. A website that is easy to navigate will lead to longer visits and increased conversions. And given that your website’s ultimate goal is to generate sales and leads for your business, this is essential. There are a few different ways to setup your site’s navigation, and two of the most popular are top and side. The one that’s best for your site depends on your content, so in this post, we’ll take a look at a few different navigation options and why they may or may not work for your business. Top Navigation Top navigation may be the best setup for your site if you don’t have too many menu options to choose from. Most users are inclined to read left to right, top to bottom. Place the navigation labels in a horizontal line at the top of the page to create a familiar and natural space for users’ eyes to land. You’ll want “top-level” pages, or pages that are the most important to your site, in this navigation bar. Side Navigation Vertical menus are usually not the best option if you’re aiming for simple menu design, because a lot of content can visually crowd vertical menus. Looking at the example below from Yale University’s School of Art page, you can see how side navigation works: Compare this setup to the Tisch School of Art’s page: Which one is easier on the eye and encourages further reading? At first glance, it is easy to see that the Tisch School of Art makes it much easier to navigate their site and find important information. The top navigation setup is minimalist and elegant in design, with clear and concise labels. By contrast, Yale’s page has a more cluttered side navigation that, although simple, is less visually appealing. Vertical navigation menus can work, but only with the right design and with minimal items to choose from. Here’s an example where side navigation works well: As you can see, Nathan Welton Photography uses a minimalist design with few menu options. The result is a well-designed, easy-to-navigate homepage. If your site features long lists of menu items, and you wish to use vertical navigation, be sure to break the menus into categories. However, if your site is content-heavy with lots of categories and information, you may want to opt for a mega nav setup. Mega Navigation If you have a lot of information on your site, a mega navigation setup is one of the best ways to make it all accessible to your visitors. It’s visually appealing, and entices users with plenty of organized options. If you offer many different products in different categories, this is likely your best option. A great example of an easy-to-navigate drop-down menu can be found on Starbucks website. When users hover their mouse over the “Menu” tab, they see a larger navigation setup with four different categories – all in a simple font, and neatly spaced. The point is to direct users where they want to go, not overwhelm them with unnecessary effects or images. A mega drop-down menu will also add plenty of links to your site and will help with SEO as a result. Whether you choose top, side, or a mega navigation setup, you’ll want to make sure that the style is consistent on all pages, visually familiar, and concise. Be descriptive and specific in your navigation labels and put yourself in user’s shoes. Ask yourself what experience you prefer to have when browsing an online store for products or services. What have you found to be frustrating when navigating a page, and what changes would you have made? A navigation setup should be designed with the goal of getting users where they want to be as easily as possible. And when you make user experience your top priority, you’ll be much more successful in keeping visitors on your site and converting them into customers.</summary></entry></feed>
+&lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How to Choose a Navigation Setup Friday 23 November 2018 by Rifat Cholakov Do you want users to spend time on your site and stick around long enough to convert? If so, it’s essential that your content is easy to navigate. If finding information is difficult, users will likely become frustrated and leave, in search of a site that provides a better user experience.</summary></entry></feed>
