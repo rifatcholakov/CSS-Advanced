@@ -1,17 +1,61 @@
 ---
-layout: default
-title: "Welcome to Jekyll!"
+layout: posts
+title: "How to Fix (and Avoid) Traffic Drops after a Website Redesign"
 date: 2018-11-23 15:13:20 +0200
 categories: jekyll update
 ---
 <p>
-    <img src="http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png" alt="Post Image">
+    <img src="{{ site.baseurl }}/images/post-6.jpg" alt="Post Image">
     <h2>{{ page.title }}</h2>
-    <span>{{ page.date | date: "%A %-d %B %Y" }} by <span>{{site.author}}</span></span>
-    <p>
-        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
-        before. Ahh, only if I also knew all of it when I was younger.
+    <div class="meta-info"><span class="date">{{ page.date | date: "%A %-d %B %Y" }} by <span class="author">{{site.author}}</span></span></div>
+    <p class="post-summary">
+        No matter how state-of-the-art your company’s website may have seemed when you first launched it, there comes a time when every site can benefit from a redesign. Given the multitude of algorithm changes than happen each year, and regular shifts in consumer Internet use, it can be nearly impossible for an outdated website to deliver the online results you need.
     </p>
 </p>
 
-This is test POSTS
+<article>
+    <p>If you’ve recently launched a redesign, you were likely excited to see the results of your revamped site, like increases in traffic, conversions, and sales. And when done right, this is exactly what happens.</p>
+    <p>Unfortunately, it isn’t always the case – in fact, some site owners actually lose site traffic in the days and weeks following their website redesign.</p>
+    <p>If you’re currently experiencing this issue, keep reading for 3 possible reasons, as well as how to fix them.</p>
+    <p>And if you’re considering redesigning your site in the future, we’ve also included 5 tips for avoiding traffic drops altogether.</p>
+    <h3>Causes for traffic drops after a redesign</h3>
+    <p>First, it’s important to note that minor traffic drops are completely normal for a few days following a redesign. If it’s been less than a week, and the decline is less than 10%, you may have nothing to worry about.</p>
+    <p>Google needs to crawl and index all of your new pages in order to serve the new versions to their users, so you should expect a temporary decline in organic traffic.</p>
+    <p>That being said, if it’s been more than a few days, or traffic has dropped off drastically, there’s likely a bigger issue at play. And if that’s the case, you’ll want to inspect the following three elements.</p>
+    <h3>1. Redirects</h3>
+    <p>One of the most important steps in a website redesign is setting up proper redirects – and skipping this step is one of the most common causes of traffic loss.</p>
+    <p>Unless you keep all of your URLs exactly the same (and recreate each of your old pages on your new site), redirects are absolutely necessary. They tell search engines and browsers where the new version of each page is located – and without them, they’ll simply think the page is gone.</p>
+    <p>If you changed your URL structure or moved any pages to new locations, but didn’t set up proper redirects, this is likely the main cause of your traffic drop.</p>
+    <p>And if you’re not sure if this is the issue, you can log into Google’s Search Console, then go to Crawl > Crawl Errors and select the “Not Found” tab.</p>
+    <img src="https://www.webfx.com/img/not-found.png" alt="">
+    <p>If there are any pages without redirects on your site, they’ll show up here.</p>
+    <p>In order to fix the issue – and regain your traffic – you’ll need to implement 301 redirects for each of your old pages. Then, if you don’t have any other issues, your traffic levels should be back to normal within a few weeks.</p>
+    <h3>2. Site structure</h3>
+    <p>Your site structure plays an important role in how Google indexes and understands your site, so if it drastically changed during your redesign, you’ll need to create a new sitemap.</p>
+    <p>Your sitemap provides a basic listing of all of the important pages on your site, and you can submit it to Search Console to speed up the process of re-indexing your pages and restoring your traffic levels.</p>
+    <p>In addition to your sitemap, you’ll also want to revisit your internal links. The links within your pages (especially your navigation) play an important role in how Google indexes your site. If some – or all – of these point to outdated URLs, this could also cause crawl issues.</p>
+    <h3>3. Site copy</h3>
+    <p>In some cases, website redesigns also involve entirely new copy. And while this can be helpful if the copywriter was aware of and incorporated the original target keywords, it can be extremely detrimental if not.</p>
+    <p>If your pages are no longer written in a way that includes the keywords they originally ranked for, your rankings will suffer for those keywords. Google’s algorithm is designed to provide their users with the information they’re looking for – and if your site no longer has that information, they won’t show it as a result.</p>
+    <p>The best way to fix this issue is to work with an experienced SEO who can optimize your pages for your target keywords. And if you have a backup of your old site saved somewhere, you can use it to determine which keywords to use on each page.</p>
+    <h3>How long it takes for traffic to return to normal levels</h3>
+    <p>If your traffic dropped as a result of one of the issues above, you should make it a top priority to remedy the problem as soon as possible. That being said, your traffic likely won’t come back overnight.</p>
+    <p>It may take a few weeks for Google to crawl and re-index all of your new pages, and until they begin ranking in search results again, your traffic will be lower that usual.</p>
+    <h3>How to avoid traffic drops during a redesign</h3>
+    <p>If you haven’t yet redesigned your site, the information above may have you second-guessing whether it’s really worth it. But if your site is outdated, a redesign can certainly have a positive impact – you just need to be sure to take the following steps:</p>
+    <h3>1. Make SEO part of the process</h4>
+    <p>Make sure that your redesign team regularly consults an SEO strategist throughout the process. Although your design agency may have experts in design and development, the perspective of an experienced SEO will help you avoid serious issues that result in traffic loss.</p>
+    <p>They may also be able to advise changes that will help your traffic levels improve after the redesign, and make the process even more worthwhile for your business.</p>
+    <h3>2. Crawl your existing site and plan your new site architecture</h3>
+    <p>Before making any changes, you should first take an inventory of every page currently on your site. There are many free tools online that will help you do this and provide your results in a downloadable spreadsheet.</p>
+    <p>This will help you make sure that all of the valuable information currently on your site has a place on the redesigned version, and you can also use it to build out a new site architecture, if necessary.</p>
+    <p>In some cases, your URLs and general structure can remain the same. But if your current URLs aren’t set up in a logical way (ex. With relevant subfolders and appropriate page titles), a redesign is the perfect opportunity to fix this issue.</p>
+    <h3>3. Set up 301 redirects</h3>
+    <p>As we mentioned above, not having proper redirects in place is the most common cause for traffic loss. If your URLs have changed at all, you’ll need to set them up before launching your new site.</p>
+    <p>You should also make sure that each one is set up as a 301 (permanent) redirect, as this tells search engine crawlers that the page has permanently moved. Using 302 (temporary) redirects is a common error, but one that can harm your rankings.</p>
+    <h3>4. Create a new sitemap</h3>
+    <p>Before launching your site, you should also create a new sitemap that includes all of the most important pages on your site. As a general rule of thumb, you shouldn’t include more than 100 pages – so if your site is huge, your sitemap may be more of a general overview than a comprehensive listing.</p>
+    <h3>5. Make sure your analytics tracking code is in place</h3>
+    <p>Finally, before your launch, double check that your analytics tracking code is in place on your new site. Although this may seem like a no-brainer, it’s a common oversight – and one that can lead you to believe that you’ve lost all of your traffic.</p>
+    <p>Simply making sure that the code is implemented in your header or footer can save you that stress, and will also allow you to monitor your traffic during every step of the way.</p>
+</article>

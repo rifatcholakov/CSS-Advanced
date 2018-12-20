@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>my-project-jekyll</title>
     <link rel="stylesheet" href="/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/css/blog-post.css" type="text/css">
     <script
 			  src="https://code.jquery.com/jquery-3.3.1.min.js"
 			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
@@ -33,16 +34,44 @@
     </header>
 
     <p>
-    <img src="http://dotbuzz.com/wp-content/uploads/2016/02/blogpostfeaturedimage.png" alt="Post Image">
-    <h2>Welcome to Jekyll!</h2>
-    <span>Friday 23 November 2018 by <span>Rifat Cholakov</span></span>
-    <p>
-        Right here and right now I am going to uncover to you 5 tips about searching which you will wish you knew
-        before. Ahh, only if I also knew all of it when I was younger.
+    <img src="/images/post-2.jpg" alt="Post Image">
+    <h2>The 5 Best Free FTP Clients</h2>
+    <div class="meta-info"><span class="date">Friday 23 November 2018 by <span class="author">Rifat Cholakov</span></span></div>
+    <p class="post-summary">
+            Transferring files to and from your web host or server is best done with what’s commonly known an FTP client, though the term is a bit dated because there are more secure alternatives such as SFTP and FTPS.
     </p>
 </p>
 
-This is test POSTS
+<article>
+    <p>When I was putting together this list, this was my criteria: <br> <br>
+        &bull; Supports secure file transfer protocols: FTP isn’t secure. Among its many flaws, plain FTP doesn’t encrypt the data you’re transferring. If your data is compromised en route to its destination, your credentials (username and password) and your data can easily be read. SFTP (which stands for SHH File Transfer Protocol) is a popular secure alternative, but there are many others. <br>
+        &bull; Has a GUI: There are some awesome FTP clients with a command-line interface, but for a great number of people, a graphical user interface is more approachable and easier to use. <br>
+    </p>
+    <h3><a href="https://filezilla-project.org/">1. FileZilla</a></h3>
+    <p>Topping the list is FileZilla, an open source FTP client. It’s fast, being able to handle simultaneous transmissions (multi-threaded transfers), and supports SFTP and FTPS (which stands for FTP over SSL). What’s more, it’s available on all operating systems, so if you work on multiple computers — like if you’re forced to use Windows at work but you have a Mac at home — you don’t need to use a different application for your file-transferring needs.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-01-filezilla.png" alt="">
+    <p>Available on Windows, Mac OS and Linux</p>
+    <h3><a href="https://cyberduck.io/">2. Cyberduck</a></h3>
+    <p>Cyberduck can take care of a ton of your file-transferring needs: SFTP, WebDav, Amazon S3, and more. It has a minimalist UI, which makes it super easy to use.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-02-cyberduck.png" alt="">
+    <p>Available on Windows and Mac OS</p>
+    <h3><a href="http://fireftp.net/">3. FireFTP</a></h3>
+    <p>This Mozilla Firefox add-on gives you a very capable FTP/SFTP client right within your browser. It’s available on all platforms that can run Firefox.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-03-fireftp.png" alt="">
+    <p>Available on Windows, Mac OS and Linux</p>
+    <h3><a href="http://www.nchsoftware.com/classic/">4. Classic FTP</a></h3>
+    <p>Classic FTP is a file transfer client that’s free for non-commercial use. It has a very simple interface, which is a good thing, because it makes it easy and intuitive to use. I like its “Compare Directories” feature that’s helpful for seeing differences between your local and remote files.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-04-classic-ftp.png" alt="">
+    <p>Available on Windows and Mac OS</p>
+    <h3><a href="http://winscp.net/eng/index.php">5. WinSCP</a></h3>
+    <p>This popular FTP client has a very long list of features, and if you’re a Windows user, it’s certainly worth a look. WinSCP can deal with multiple file-transfer protocols (SFTP, SCP, FTP, and WebDav). It has a built-in text editor for making quick text edits more convenient, and has scripting support for power users.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-05-winscp.png" alt="">
+    <p>Available on Windows</p>
+    <h3>Honorable Mention: <a href="https://panic.com/transmit/">Transmit</a></h3>
+    <p>For this post, I decided to focus on free software. But it just doesn’t seem right to leave out Transmit (which costs $34) in a post about FTP clients because it’s a popular option used by web developers on Mac OS. It has a lot of innovative features and its user-friendliness is unmatched. If you’ve got the cash to spare and you’re on a Mac, this might be your best option.</p>
+    <img src="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-06-transmit.jpg" alt="">
+    <p>Available on Mac OS</p>
+</article>
 
     <footer>
         <p class="copy">
@@ -63,7 +92,7 @@ This is test POSTS
             x.classList.toggle('change');
             let nav = document.getElementsByTagName('nav');
             $('nav').toggleClass('hidden');
-        }
+        }   
     </script>
 </body>
 </html>
