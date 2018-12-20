@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-20T09:48:22+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">Which A/B Testing Tool Should You Use?</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="Which A/B Testing Tool Should You Use?" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-1.jpg&quot; alt=&quot;Post Image&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-12-20T09:55:11+02:00</updated><id>/feed.xml</id><title type="html">my-project-jekyll</title><subtitle>This is base description!!!</subtitle><author><name>Rifat Cholakov</name></author><entry><title type="html">Which A/B Testing Tool Should You Use?</title><link href="/jekyll/update/2018/11/27/first-post.html" rel="alternate" type="text/html" title="Which A/B Testing Tool Should You Use?" /><published>2018-11-27T01:56:00+02:00</published><updated>2018-11-27T01:56:00+02:00</updated><id>/jekyll/update/2018/11/27/first-post</id><content type="html" xml:base="/jekyll/update/2018/11/27/first-post.html">&lt;p&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-1.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;Which A/B Testing Tool Should You Use?&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Tuesday 27 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -44,7 +44,7 @@
     &lt;p&gt;If you’re looking to run a simple test and have the HTML ability to create pages yourself, Google Content Experiments are all you need.&lt;/p&gt;
     &lt;p&gt;If you’d rather use an editor to cut down on time, Optimizely is a solid choice. And if you’re looking for advanced reporting tools or landing-page-specific features, you can’t go wrong with VWO or Unbounce.&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">Which A/B Testing Tool Should You Use? Tuesday 27 November 2018 by Rifat Cholakov When visitors arrive on your company’s website, you want them to take action. Depending on your business, that “action” may be many different things, from filling out a contact form to making a purchase.</summary></entry><entry><title type="html">How to Build an Award-Winning Web Design Team</title><link href="/jekyll/update/2018/11/23/fifth-post.html" rel="alternate" type="text/html" title="How to Build an Award-Winning Web Design Team" /><published>2018-11-23T23:13:20+02:00</published><updated>2018-11-23T23:13:20+02:00</updated><id>/jekyll/update/2018/11/23/fifth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/fifth-post.html">&lt;p&gt;
-        &lt;img src=&quot;/images/post-5.jpg&quot; alt=&quot;Post Image&quot;&gt;
+        &lt;img src=&quot;/CSS-Advanced/images/post-5.jpg&quot; alt=&quot;Post Image&quot;&gt;
         &lt;h2&gt;How to Build an Award-Winning Web Design Team&lt;/h2&gt;
         &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
         &lt;p class=&quot;post-summary&quot;&gt;
@@ -91,7 +91,7 @@
     &lt;img src=&quot;https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0594-01-principles-web-design-team.png&quot; alt=&quot;&quot;&gt;
 
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How to Build an Award-Winning Web Design Team Friday 23 November 2018 by Rifat Cholakov As Art Director over at Vintage, I have had the opportunity to build and grow an outstanding web design team. Together, our team has managed to work on plenty of innovative, award-winning projects. I would like to share some of my tips and techniques for hiring, helping cultivate the skills of team members, and creating a productive team culture.</summary></entry><entry><title type="html">How Selling Pastries Helped Us Design a Better Product</title><link href="/jekyll/update/2018/11/23/fourth-post.html" rel="alternate" type="text/html" title="How Selling Pastries Helped Us Design a Better Product" /><published>2018-11-23T22:13:20+02:00</published><updated>2018-11-23T22:13:20+02:00</updated><id>/jekyll/update/2018/11/23/fourth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/fourth-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-4.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-4.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;How Selling Pastries Helped Us Design a Better Product&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -145,7 +145,7 @@
     &lt;p&gt;While we still had a long way to go, recreating real-life scenarios proved to be an invaluable way to start challenging our assumptions and build empathy for our customers in a short amount of time.&lt;/p&gt;
     &lt;p&gt;And we didn’t even have to leave our office.&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How Selling Pastries Helped Us Design a Better Product Friday 23 November 2018 by Rifat Cholakov It’s 8:30 in the morning and employees are trickling into the office kitchen, bleary-eyed and cocooned in thick scarves. Soft greetings are whispered over the tinkling of Cheerios.</summary></entry><entry><title type="html">Speed Up Your Website With CDN77</title><link href="/jekyll/update/2018/11/23/third-post.html" rel="alternate" type="text/html" title="Speed Up Your Website With CDN77" /><published>2018-11-23T21:13:20+02:00</published><updated>2018-11-23T21:13:20+02:00</updated><id>/jekyll/update/2018/11/23/third-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/third-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-3.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-3.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;Speed Up Your Website With CDN77&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -176,7 +176,7 @@
     &lt;h3&gt;Try CDN77 for Free!&lt;/h3&gt;
     &lt;p&gt;CDN77 gives you the opportunity to &lt;a href=&quot;https://www.cdn77.com/signup&quot;&gt;try them for free&lt;/a&gt;. No strings attached — no commitments, and no credit card required.&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">Speed Up Your Website With CDN77 Friday 23 November 2018 by Rifat Cholakov Want to make your website faster? Using a content delivery network (CDN) will bring remarkable speed improvements to your website.</summary></entry><entry><title type="html">The 5 Best Free FTP Clients</title><link href="/jekyll/update/2018/11/23/second-post.html" rel="alternate" type="text/html" title="The 5 Best Free FTP Clients" /><published>2018-11-23T20:13:20+02:00</published><updated>2018-11-23T20:13:20+02:00</updated><id>/jekyll/update/2018/11/23/second-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/second-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-2.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-2.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;The 5 Best Free FTP Clients&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -214,7 +214,7 @@
     &lt;img src=&quot;https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0585-06-transmit.jpg&quot; alt=&quot;&quot;&gt;
     &lt;p&gt;Available on Mac OS&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">The 5 Best Free FTP Clients Friday 23 November 2018 by Rifat Cholakov Transferring files to and from your web host or server is best done with what’s commonly known an FTP client, though the term is a bit dated because there are more secure alternatives such as SFTP and FTPS.</summary></entry><entry><title type="html">How to Fix (and Avoid) Traffic Drops after a Website Redesign</title><link href="/jekyll/update/2018/11/23/sixth-post.html" rel="alternate" type="text/html" title="How to Fix (and Avoid) Traffic Drops after a Website Redesign" /><published>2018-11-23T15:13:20+02:00</published><updated>2018-11-23T15:13:20+02:00</updated><id>/jekyll/update/2018/11/23/sixth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/sixth-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-6.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-6.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;How to Fix (and Avoid) Traffic Drops after a Website Redesign&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -268,7 +268,7 @@
     &lt;p&gt;Finally, before your launch, double check that your analytics tracking code is in place on your new site. Although this may seem like a no-brainer, it’s a common oversight – and one that can lead you to believe that you’ve lost all of your traffic.&lt;/p&gt;
     &lt;p&gt;Simply making sure that the code is implemented in your header or footer can save you that stress, and will also allow you to monitor your traffic during every step of the way.&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">How to Fix (and Avoid) Traffic Drops after a Website Redesign Friday 23 November 2018 by Rifat Cholakov No matter how state-of-the-art your company’s website may have seemed when you first launched it, there comes a time when every site can benefit from a redesign. Given the multitude of algorithm changes than happen each year, and regular shifts in consumer Internet use, it can be nearly impossible for an outdated website to deliver the online results you need.</summary></entry><entry><title type="html">5 Ways Web Design Impacts Customer Experience</title><link href="/jekyll/update/2018/11/23/seventh-post.html" rel="alternate" type="text/html" title="5 Ways Web Design Impacts Customer Experience" /><published>2018-11-23T14:13:20+02:00</published><updated>2018-11-23T14:13:20+02:00</updated><id>/jekyll/update/2018/11/23/seventh-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/seventh-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-7.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-7.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;5 Ways Web Design Impacts Customer Experience&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
@@ -383,7 +383,7 @@
     &lt;p&gt;It may not sound like much, but that goes a long way in establishing trust, fostering a positive relationship, and eventually earning a new customer.&lt;/p&gt;
     &lt;p&gt;By using all three of these concepts at once, you make your site much more efficient at earning new customers.&lt;/p&gt;
 &lt;/article&gt;</content><author><name>Rifat Cholakov</name></author><summary type="html">5 Ways Web Design Impacts Customer Experience Friday 23 November 2018 by Rifat Cholakov Web design is one of the most important parts of any Internet marketing strategy. It has a huge impact on the digital customer experience in several different ways. Your site’s aesthetics, usability, any other crucial factors are essential to your company’s long-term online success.</summary></entry><entry><title type="html">How to Choose a Navigation Setup</title><link href="/jekyll/update/2018/11/23/eigth-post.html" rel="alternate" type="text/html" title="How to Choose a Navigation Setup" /><published>2018-11-23T13:13:20+02:00</published><updated>2018-11-23T13:13:20+02:00</updated><id>/jekyll/update/2018/11/23/eigth-post</id><content type="html" xml:base="/jekyll/update/2018/11/23/eigth-post.html">&lt;p&gt;
-    &lt;img src=&quot;/images/post-8.jpg&quot; alt=&quot;Post Image&quot;&gt;
+    &lt;img src=&quot;/CSS-Advanced/images/post-8.jpg&quot; alt=&quot;Post Image&quot;&gt;
     &lt;h2&gt;How to Choose a Navigation Setup&lt;/h2&gt;
     &lt;div class=&quot;meta-info&quot;&gt;&lt;span class=&quot;date&quot;&gt;Friday 23 November 2018 by &lt;span class=&quot;author&quot;&gt;Rifat Cholakov&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
     &lt;p class=&quot;post-summary&quot;&gt;
