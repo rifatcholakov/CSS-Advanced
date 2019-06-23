@@ -20,7 +20,7 @@ gulp.task('scss', function () {
         .pipe($.sourcemaps.write('map'))
         .pipe(gulp.dest( path.SCSS_DST ))
         .pipe(browserSync.stream({ match: '**/*.css' }))
-    ;
+    ;scss
 
     gulp.src( './scss/blog-post.scss')
         .pipe($.sass())
