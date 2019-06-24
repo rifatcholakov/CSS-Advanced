@@ -1,4 +1,4 @@
-# CSS Advanced Exam Project - Personal Website(Portfolio)
+# Freelancer Portfolio and Blog Jekyll Theme
 That's my project for the examp at the end of the [**CSS Avanced course**](https://softuni.bg/trainings/2183/css-advanced-november_2018) at [SoftUni](https://www.softuni.bg/).
 
 ## Preview
