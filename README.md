@@ -1,8 +1,8 @@
 # CSS Advanced Exam Project - Personal Website(Portfolio)
 That's my project for the examp at the end of the [**CSS Avanced course**](https://softuni.bg/trainings/2183/css-advanced-november_2018) at [SoftUni](https://www.softuni.bg/).
 
-## Demo
-<a href="https://rifatcholakov.github.io/CSS-Advanced//" target="_blank">Click here</a>
+## Preview
+<a href="https://rifatcholakov.github.io/Freelancer-Portfolio-and-Blog//" target="_blank">Click here</a>
 ## Installing
 1. Make sure you have these installed
 	- [node.js](http://nodejs.org/)
