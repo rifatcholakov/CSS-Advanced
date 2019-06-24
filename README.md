@@ -1,9 +1,12 @@
-# Freelancer Portfolio and Blog Jekyll Theme
+# Freelancer Portfolio and Blog - Jekyll Theme
+
 That's my project for the examp at the end of the [**CSS Avanced course**](https://softuni.bg/trainings/2183/css-advanced-november_2018) at [SoftUni](https://www.softuni.bg/).
 
+<img src="https://rifatcholakov.com/wp-content/uploads/2019/01/my-portfolio-project.png"> 
+
 ## Preview
-<a href="https://rifatcholakov.github.io/Freelancer-Portfolio-and-Blog//" target="_blank">Click here</a>
-## Installing
+<a href="https://rifatcholakov.github.io/Freelancer-Portfolio-and-Blog/" target="_blank">https://rifatcholakov.github.io/Freelancer-Portfolio-and-Blog/</a>
+## Getting Started
 1. Make sure you have these installed
 	- [node.js](http://nodejs.org/)
 	- [git](http://git-scm.com/)
@@ -13,5 +16,5 @@ That's my project for the examp at the end of the [**CSS Avanced course**](https
 4. Run `> npm install` to install the project dependencies
 5. Run `> gulp` to start live preview server
 
-## More Stuff
-Check out some of my other projects at my personal website [RifatCholakov.COM](https://www.rifatcholakov.com/portfolio). You can follow me on [LinkedIn](https://www.linkedin.com/in/rifatcholakov/), read [my blog](https://rifatcholakov.com/blog), [follow me on twitter](https://twitter.com/rifatcholakov), or check out my [youtube channel](https://youtube.com/winofficially).
+## License
+This project is licensed under the MIT License - see the LICENSE file for details
